@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../feu_de_circulation.srcs/sources_1/new/compteur_bin.vhd" \
+"../../../../feu_de_circulation.srcs/sources_1/new/feu_tricolore.vhd" \
+"../../../../feu_de_circulation.srcs/sim_1/new/tb.vhd" \
+
+# Do not sort compile order
+nosort

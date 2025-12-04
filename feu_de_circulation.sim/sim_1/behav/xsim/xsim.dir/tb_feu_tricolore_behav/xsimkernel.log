@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_feu_tricolore_behav/xsimk.exe -simmode gui -wdb tb_feu_tricolore_behav.wdb -simrunnum 0 -socket 51384
+Design successfully loaded
+Design Loading Memory Usage: 8376 KB (Peak: 8376 KB)
+Design Loading CPU Usage: 108 ms
